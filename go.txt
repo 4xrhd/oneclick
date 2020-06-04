@@ -16,3 +16,5 @@ OWASP/Amass
 michenriksen/aquatone
 mhmdiaa/waybackunifier
 subfinder/subfinder
+tomnomnom/hacks/tree/master/unfurl
+tomnomnom/hacks/tree/master/htmlattribs
