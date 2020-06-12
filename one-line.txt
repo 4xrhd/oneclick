@@ -1,0 +1,4 @@
+#> for swagger 
+for i in `curl -sk https://target/api/swagger.json  | jq -r '.apis[].path'`; do echo $i;curl "https://target/$i" -iko /dev/null -sw "%{http_code}\n"; done
+#>
+
