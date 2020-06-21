@@ -19,4 +19,4 @@ subfinder/subfinder
 tomnomnom/hacks/tree/master/unfurl
 tomnomnom/hacks/tree/master/htmlattribs
 ropnop/kerbrute
-projectdiscovery/subfinder
+projectdiscovery/subfinder/cmd/subfinder
