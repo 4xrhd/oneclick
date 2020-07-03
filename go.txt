@@ -19,3 +19,4 @@ subfinder/subfinder
 tomnomnom/unfurl
 ropnop/kerbrute
 projectdiscovery/subfinder/cmd/subfinder
+lc/gau
