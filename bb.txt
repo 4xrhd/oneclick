@@ -25,3 +25,4 @@ devanshbatham/ParamSpider
 projectdiscovery/httpx
 codingo/DNSCewl
 1ndianl33t/Gf-Patterns
+abuvanth/kicks3
