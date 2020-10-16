@@ -31,3 +31,5 @@ epi052/feroxbuster
 obheda12/GitDorker
 nahamsec/lazys3
 hazimaslam/Asnlookup
+GerbenJavado/LinkFinder
+tomdev/teh_s3_bucketeers
