@@ -26,3 +26,6 @@ projectdiscovery/httpx
 codingo/DNSCewl
 1ndianl33t/Gf-Patterns
 abuvanth/kicks3
+hyperledger/fabric
+epi052/feroxbuster
+obheda12/GitDorker
