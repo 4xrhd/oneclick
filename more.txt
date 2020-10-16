@@ -44,3 +44,7 @@ bfac https://github.com/mazen160/bfac
 WPScan https://wpscan.org/
 CMSMap https://github.com/Dionach/CMSmap
 Amass https://github.com/OWASP/Amass
+fabric https://github.com/hyperledger/fabric
+feroxbuster https://github.com/epi052/feroxbuster
+GitDorker https://github.com/obheda12/GitDorker
+Golden Nuggets(burpsuite) https://github.com/GainSec/GoldenNuggets-1
