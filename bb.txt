@@ -14,6 +14,7 @@ coreb1t/awesome-pentest-cheat-sheets
 googleinurl/Wordpress-A.F.D-Verification
 laramies/theHarvester
 nahamsec/JSParser
+x90skysn3k/brutespray
 GerbenJavado/LinkFinder
 antichown/subdomain-takeover
 swisskyrepo/SSRFmap
