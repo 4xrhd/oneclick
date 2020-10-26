@@ -36,3 +36,4 @@ GerbenJavado/LinkFinder
 tomdev/teh_s3_bucketeers
 maaaaz/webscreenshot
 danielmiessler/SecLists
+bugcrowd/HUNT
