@@ -8,6 +8,7 @@ swisskyrepo/PayloadsAllTheThings
 OlivierLaflamme/Cheatsheet-God
 drk1wi/Modlishka
 s0md3v/XSStrike
+PortSwigger/collaborator-everywhere
 skavngr/rapidscan
 cujanovic/SSRF-Testing
 coreb1t/awesome-pentest-cheat-sheets
