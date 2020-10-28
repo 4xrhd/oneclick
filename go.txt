@@ -20,3 +20,9 @@ tomnomnom/unfurl
 ropnop/kerbrute
 projectdiscovery/subfinder/cmd/subfinder
 lc/gau
+hakluke/hakrawler
+tomnomnom/hacks/tree/master/kxss
+hahwul/dalfox
+projectdiscovery/naabu/v2/cmd/naabu
+projectdiscovery/nuclei/v2/cmd/nuclei
+projectdiscovery/httpx
