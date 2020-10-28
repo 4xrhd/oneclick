@@ -37,3 +37,6 @@ tomdev/teh_s3_bucketeers
 maaaaz/webscreenshot
 danielmiessler/SecLists
 bugcrowd/HUNT
+shmilylty/OneForAll
+micha3lb3n/SSRFire
+devanshbatham/OpenRedireX
