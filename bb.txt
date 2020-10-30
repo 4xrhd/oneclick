@@ -1,5 +1,6 @@
 jhaddix/scripts
 zeropwn/spyse.py
+FortyNorthSecurity/EyeWitness
 EdOverflow/bugbounty-cheatsheet
 samhaxr/XXRF-Shots
 D35m0nd142/LFISuite
