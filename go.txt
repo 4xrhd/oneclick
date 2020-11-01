@@ -26,3 +26,4 @@ hahwul/dalfox
 projectdiscovery/naabu/v2/cmd/naabu
 projectdiscovery/nuclei/v2/cmd/nuclei
 projectdiscovery/httpx
+tomnomnom/fff
