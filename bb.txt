@@ -41,3 +41,4 @@ bugcrowd/HUNT
 shmilylty/OneForAll
 micha3lb3n/SSRFire
 devanshbatham/OpenRedireX
+elceef/dnstwist
