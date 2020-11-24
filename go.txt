@@ -2,12 +2,15 @@ ropnop/kerbrute
 tomnomnom/httprobe
 tomnomnom/meg
 tomnomnom/waybackurls
+projectdiscovery/mapcid
 tomnomnom/assetfinder
 tomnomnom/gf
 tomnomnom/rawhttp
+projectdiscovery/naabu
 ffuf/ffuf
 michenriksen/gitrob
 003random/getJS
+projectdiscovery/dnsx
 ce3man543/SubOver
 lukasikic/subzy
 tomnomnom/hacks/tojson
@@ -28,3 +31,4 @@ projectdiscovery/nuclei/v2/cmd/nuclei
 projectdiscovery/httpx
 tomnomnom/fff
 projectdiscovery/dnsprobe
+projectdiscovery/shuffledns
