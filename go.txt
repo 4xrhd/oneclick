@@ -18,7 +18,7 @@ tomnomnom/hacks/html-tool
 OWASP/Amass
 michenriksen/aquatone
 mhmdiaa/waybackunifier
-subfinder/subfinder
+projectdiscovery/subfinder/v2/cmd/subfinder
 tomnomnom/unfurl
 ropnop/kerbrute
 projectdiscovery/subfinder/cmd/subfinder
