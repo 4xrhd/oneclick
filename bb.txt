@@ -12,10 +12,12 @@ s0md3v/XSStrike
 PortSwigger/collaborator-everywhere
 skavngr/rapidscan
 cujanovic/SSRF-Testing
+lobuhi/byp4xx
 coreb1t/awesome-pentest-cheat-sheets
 googleinurl/Wordpress-A.F.D-Verification
 laramies/theHarvester
 nahamsec/JSParser
+BonJarber/SecUtils
 x90skysn3k/brutespray
 GerbenJavado/LinkFinder
 antichown/subdomain-takeover
