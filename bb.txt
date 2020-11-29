@@ -1,4 +1,5 @@
 jhaddix/scripts
+maurosoria/dirsearch
 zeropwn/spyse.py
 FortyNorthSecurity/EyeWitness
 EdOverflow/bugbounty-cheatsheet
