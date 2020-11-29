@@ -1,4 +1,5 @@
 jhaddix/scripts
+m4ll0k/Bug-Bounty-Tolz
 maurosoria/dirsearch
 zeropwn/spyse.py
 FortyNorthSecurity/EyeWitness
@@ -9,7 +10,11 @@ lc/theftfuzzer
 swisskyrepo/PayloadsAllTheThings
 OlivierLaflamme/Cheatsheet-God
 drk1wi/Modlishka
+robre/scripthunter
 s0md3v/XSStrike
+yeswehack/pwn-machine
+ahussam/url-tracker
+4xrhd/telegram-bot-cli
 PortSwigger/collaborator-everywhere
 skavngr/rapidscan
 cujanovic/SSRF-Testing
