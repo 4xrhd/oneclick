@@ -32,3 +32,4 @@ projectdiscovery/httpx
 tomnomnom/fff
 projectdiscovery/dnsprobe
 projectdiscovery/shuffledns
+tomnomnom/hacks/tree/master/kxss
