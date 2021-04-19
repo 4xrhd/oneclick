@@ -6,6 +6,7 @@ projectdiscovery/mapcid
 tomnomnom/assetfinder
 tomnomnom/gf
 tomnomnom/rawhttp
+tomnomnom/anew
 projectdiscovery/naabu
 ffuf/ffuf
 michenriksen/gitrob
