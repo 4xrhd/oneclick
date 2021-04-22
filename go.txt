@@ -7,8 +7,7 @@ tomnomnom/assetfinder
 tomnomnom/gf
 tomnomnom/rawhttp
 tomnomnom/anew
-projectdiscovery/naabu
-ffuf/ffuf
+projectdiscovery/naabu/tree/master/v2/cmd/naabu
 michenriksen/gitrob
 003random/getJS
 projectdiscovery/dnsx
@@ -20,7 +19,6 @@ tomnomnom/hacks/html-tool
 OWASP/Amass
 michenriksen/aquatone
 mhmdiaa/waybackunifier
-projectdiscovery/subfinder/v2/cmd/subfinder
 tomnomnom/unfurl
 ropnop/kerbrute
 projectdiscovery/subfinder/cmd/subfinder
@@ -28,11 +26,11 @@ lc/gau
 hakluke/hakrawler
 tomnomnom/hacks/tree/master/kxss
 hahwul/dalfox
-projectdiscovery/naabu/v2/cmd/naabu
-projectdiscovery/nuclei/v2/cmd/nuclei
-projectdiscovery/httpx
+projectdiscovery/nuclei/tree/master/v2/cmd/nuclei
+projectdiscovery/httpx/tree/master/cmd/httpx
 tomnomnom/hacks/tree/master/htmlattribs
 tomnomnom/fff
 projectdiscovery/dnsprobe
-projectdiscovery/shuffledns
+projectdiscovery/shuffledns/tree/master/cmd/shuffledns
 tomnomnom/hacks/tree/master/kxss
+projectdiscovery/naabu/v2/cmd/naabu
