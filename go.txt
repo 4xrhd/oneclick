@@ -14,6 +14,7 @@ projectdiscovery/dnsx
 tomnomnom/hacks/tree/master/tok
 ce3man543/SubOver
 lukasikic/subzy
+tomnomnom/qsreplace
 tomnomnom/hacks/tojson
 tomnomnom/hacks/html-tool
 OWASP/Amass
