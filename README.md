@@ -1,6 +1,6 @@
 ## oneclick
 
-#Install all pentest and bugbounty tools at one click .
+# Install all pentest and bugbounty tools at one click .
 
 ## Check out run.sh :')
 
