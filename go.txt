@@ -5,6 +5,7 @@ tomnomnom/waybackurls
 projectdiscovery/mapcid
 tomnomnom/assetfinder
 tomnomnom/gf
+haccer/subjack
 tomnomnom/rawhttp
 tomnomnom/anew
 projectdiscovery/naabu/tree/master/v2/cmd/naabu
