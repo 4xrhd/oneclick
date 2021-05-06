@@ -11,6 +11,7 @@ projectdiscovery/naabu/tree/master/v2/cmd/naabu
 michenriksen/gitrob
 003random/getJS
 projectdiscovery/dnsx
+dwisiswant0/cf-check
 tomnomnom/hacks/tree/master/tok
 ce3man543/SubOver
 lukasikic/subzy
