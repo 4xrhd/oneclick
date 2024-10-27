@@ -2,7 +2,7 @@
 cd 
 echo "Install all tools in one click ...";
 sleep 2;
-cat go.txt | xargs -n1 -I a go get -v -u github.com/a 
+cat go.txt | xargs -n1 -I{} go install github.com/{}@latest
 mkdir tools/
 cd
 cd tools
