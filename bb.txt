@@ -1,3 +1,4 @@
+ticarpi/jwt_tool
 jhaddix/scripts
 m4ll0k/Bug-Bounty-Tolz
 iamj0ker/bypass-403
