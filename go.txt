@@ -7,6 +7,7 @@ projectdiscovery/mapcid
 tomnomnom/assetfinder
 tomnomnom/gf
 haccer/subjack
+ameenmaali/wordlistgen
 tomnomnom/rawhttp
 tomnomnom/anew
 projectdiscovery/naabu/tree/master/v2/cmd/naabu
