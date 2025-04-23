@@ -1,0 +1,1 @@
+Get-Content go.txt | ForEach-Object { $_.Split() } | ForEach-Object { go install "github.com/$_@latest" }
