@@ -22,6 +22,7 @@ tomnomnom/qsreplace
 tomnomnom/hacks/tojson
 tomnomnom/hacks/html-tool
 OWASP/Amass
+xm1k3/cent 
 michenriksen/aquatone
 mhmdiaa/waybackunifier
 tomnomnom/unfurl
